@@ -5,7 +5,19 @@
             ##insert css style sheet here##
     </head>
     <body>
-        <section>
+		<section id="menu">
+			<span onclick='setDisplay("team")'>Our Team</span> 
+			<span onclick='setDisplay("prof")'>Profiles</span> 
+			<span onclick='setDisplay("jobs")'>Ideal Jobs</span> 
+			<span onclick='setDisplay("industry")'>The Industry</span> 
+			<span onclick='setDisplay("interview")'>Interview</span> 
+			<span onclick='setDisplay("tech")'>IT Reports</span> 
+			<span onclick='setDisplay("proj")'>Project</span> 
+			<span onclick='setDisplay("reflect")'>Reflections</span> 
+			<span onclick='setDisplay("log")'>MS Teams Log</span> 
+			<span onclick='setDisplay("all")'>All</span>
+		</section>
+        <section id="team">
             <h1>IC Team group information</h1>
                 <h2>Troy Kirk</h2>
                     <p><a href=https://troyk21.github.io/Troy-s-Profile/ target=_blank> Website</a></p>
@@ -19,42 +31,45 @@
                     <p><a href=https://chriswatts13.github.io/Assign1/ target=_blank> Website</a></p>
         </section>
 
-        <section>
+        <section id="prof">
             <h1>Team results</h1>
                 <p>##Links to results and brief overview##</p>
         </section>
 
-        <section>
+        <section id="jobs">
             <h1>Ideal Jobs</h1>
                 <p></p>
         </section>
 
-        <section>
+        <section id="industry">
             <h1>Industry Data</h1>
                 <p></p>
         </section>
 
-        <section>
+        <section id="interview">
             <h1>IT Work</h1>
                 <p>##Link to recorded video maybe?##</p>
         </section>
 
-        <section>
+        <section id="tech">
             <h1>IT Technologies</h1>
                 <p>##Have hyperlinks to each##</p>
         </section>
 
-        <section>
+        <section id="proj">
             <h1>Project Idea</h1>
                 <p></p>
         </section>
         
-        <section>
+        <section id="reflect">
             <h1>Group reflection</h1>
                 <p></p>
         </section>
 
-        
+        <section id="log">
+            <h1>MS Teams Logs</h1>
+                <p></p>
+        </section>        
 
 
 
@@ -66,3 +81,17 @@
 
 
 </html>
+<script>
+function setDisplay(show = "team", allSections = ["team","prof","jobs","industry","interview","tech","proj", "reflect", "log"]){
+	for(sect of allSections){
+		document.getElementById(sect).style.display = "none";
+	}
+	if(show=="all"){
+		for(sect of allSections){
+			document.getElementById(sect).style.display = "block";
+		}
+	} else {
+		document.getElementById(show).style.display = "block";
+	}
+}
+</script>
