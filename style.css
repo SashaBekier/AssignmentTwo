@@ -10,21 +10,21 @@ p {
 
 h1{
 	font-size:2.5em;
-	color:#ECF2CF;
+	color:#474973;
 	font-family:"Garamond","Times New Roman", times, serif;
 	text-decoration:underline;
 	padding:1px;
 }
 
 h2{
-	font-size:2em;
-	color:#ECF2CF;
+	font-size:1.5em;
+	color:#474973;
 	font-family:"Garamond","Times New Roman", times, serif;
 	text-decoration:underline;
 }
 h3{
-	font-size:1.5em;
-	color:#ECF2CF;
+	font-size:1.2em;
+	color:#474973;
 	font-family:"Garamond","Times New Roman", times, serif;
 	text-decoration:underline;
 	
@@ -33,16 +33,24 @@ h3{
 	clear:both;
 }
 body{
-	background:#C490D1;
+	background:#E2ECF3;
 }
 #container{
-	background:#C490D1;
+	background:#E2ECF3;
 }
 section{
-	background:#6C3A5C;
-	color:#FCF5ED;
+	background:#A7C6DA;
+	color:#161B33;
 	margin:30px;
-	box-shadow: 0 0 5px 5px #6C3A5C;
+	box-shadow: 0 0 5px 5px #A7C6DA;
+	display:block;
+	clear:both;
+}
+.teammember{
+	width: 19%;
+	min-width:250px;
+	display:inline-block;
+	vertical-align:top;
 }
 .sectionTitle{
 	
@@ -76,4 +84,52 @@ article{
 figcaption{
 	text-align:center;
 	font-style:italic;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 15px;
+  margin-bottom:15px;
+  margin-left:5px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #E2ECF3;
+  background-color: #161B33;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 5px 10px 5px #666;
+}
+.button:hover {background-color: #252D56}
+
+.button:active {
+  background-color: #8D98CE;
+  box-shadow: 5px 10px 5px #666;
+  transform: translate(3px,3px);
+}
+
+.subbutton {
+  display: inline-block;
+  padding: 10px 10px;
+  margin-bottom:15px;
+  margin-left:5px;
+  font-size: 12px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #E2ECF3;
+  background-color: #161B33;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 5px 10px 5px #666;
+}
+.subbutton:hover {background-color: #252D56}
+
+.subbutton:active {
+  background-color: #8D98CE;
+  box-shadow: 5px 10px 5px #666;
+  transform: translate(3px,3px);
 }
