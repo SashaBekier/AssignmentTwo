@@ -1,0 +1,456 @@
+0:0:0.0 --> 0:0:9.810
+Troy Kirk
+So we've, you know, we've always got Sasha, Christopher, Andrew and and fire was here. We're all starting our journey in the IT industry and.
+0:0:10.110 --> 0:0:10.590
+Steven Crawford
+OK.
+0:0:11.70 --> 0:0:18.920
+Troy Kirk
+But definitely excited to talk to you today and and you know, pick your brain and find out some of the insights to what it is to be in the industry.
+0:0:19.410 --> 0:0:19.910
+Steven Crawford
+OK.
+0:0:20.560 --> 0:0:33.230
+Troy Kirk
+So I think first of all, Steven, the most important question is, what's your role within the IT industry right now and what's your sort of day-to-day happenings that you do?
+0:0:33.940 --> 0:0:59.760
+Steven Crawford
+Well, absolutely. Well, you know, my journey's been a little different from most. So I've been in the IT industry for a little over 25 years now. Currently, I work as a technology teacher and it's a small charter school. So basically I kind of split the fence. I'm part of Ministrator, so I run their IT and their IT business. And then I also teach technology K through eight for the kids. So.
+0:1:1.20 --> 0:1:32.410
+Steven Crawford
+In in and with that said, my role pretty much I am the guy, so you know, anything from big infrastructure, you know, for our little place down to the the day-to-day end user support is done by myself. So it on what hand it's nice because I kind of have that oversight for everything. You know I get to build design and implement which is kind of over my history came from and you know just to take a step back 20 years prior to that I worked for healthcare.
+0:1:32.660 --> 0:2:4.710
+Steven Crawford
+And so I did come from big healthcare and my primary role in that was kind of up and down the chain. You know, I started out as a network engineer, pretty much building infrastructure and most of it was big back end. I didn't do a lot of front end support by that time. But yeah, so you you start talking about your firewall, your security, your route switching, all of that, that that was the guy. So that's what I did for about the 1st 2022 years of my career.
+0:2:4.930 --> 0:2:19.190
+Steven Crawford
+On again though, I was a project manager. I I I said at the table for a lot of times. For as a CIO, a tech director. So I've kind of seen it kind of seen it all from that perspective, so.
+0:2:25.920 --> 0:2:28.710
+Christopher Watts
+Cool. Alright, well, I guess I'll ask the next one.
+0:2:28.950 --> 0:2:29.380
+Steven Crawford
+OK.
+0:2:30.750 --> 0:2:36.880
+Christopher Watts
+Well, I guess the next question is tell us about the industry that you're working. So can you go a bit more into depth?
+0:2:37.420 --> 0:3:2.960
+Steven Crawford
+Yeah. So basically it's, it's I'm in education currently. So I've been in education. Oh, this is my 6th school year again and there's a short story behind that. Well bore you with that. But yeah, I actually felt into the into the education industry by by by mistake really. I I showed up at the wrong job interview and was introduced to.
+0:3:4.80 --> 0:3:9.980
+Steven Crawford
+And I remember because I had originally applied just for the network engineer position for the school district.
+0:3:10.440 --> 0:3:40.510
+Steven Crawford
+Umm. And then there was some miscommunication between myself and the person I was supposed to meet with. I showed up at the Little Charter school and that's how it came to be my day-to-day activities within the Charter was, you know, pretty, pretty quick. I came in, they were on about year five or six with the building and their technology. So I have was in a very nice spot to be able to come in and pretty much turn it over. It's taking me about four years. But yeah, I've from.
+0:3:53.650 --> 0:3:53.900
+Fawaz Jeneby
+No.
+0:3:40.710 --> 0:4:12.220
+Steven Crawford
+In the end, now I will say I extend a little beyond the the standard, as you would say IT I guess because you know a lot of it's like building automation, your security, your fire, a lot of that now rolls into it just because as you guys know, a lot of that's moved to like the the voice over IP's and things like that and everything's IP based now. So yeah, I handle all of that in addition to my IT functions as far as what I work with.
+0:4:12.450 --> 0:4:43.220
+Steven Crawford
+At the school and then then again, like I said, teaching the kids so and the the kids that goes from kindergarten to 8th grade. So I'm I'm that guy that takes those little kindergarteners and I'm showing them basic typing skills up to the high schoolers where I start to really merge into a little more, you know, the programming will get into HTML. I get them into actually this year I've started to make graders down that path I would Python. So I do a little bit of that but yeah it it it's kind of a.
+0:4:43.300 --> 0:4:55.370
+Steven Crawford
+It's a unique blend of it's taken my 20 plus years of experience and from project management to IT and kind of blended it all together. I kind of say it's that perfect.
+0:4:56.440 --> 0:5:8.50
+Steven Crawford
+I don't know if you can ever say an IT. There's a perfect job. But for myself, everything I came out of that business where I was kind of the Jack of all master of none if that makes any sense.
+0:5:10.240 --> 0:5:42.930
+Steven Crawford
+I kind of did everything and and again I think where you guys are at least in my opinion, where you kind of come into this this world. Now I I'm on the older side, so I kind of grew up with it. So if you take a step back when I was in healthcare, it was very simplistic, it it was a lot of front end front loaded you know end user you know you kind of had your back in you know some basic novel servers and that maybe more to you guys but like novel was a big one in the hospitals at the time.
+0:6:12.580 --> 0:6:12.890
+Troy Kirk
+Umm.
+0:5:43.150 --> 0:6:12.980
+Steven Crawford
+Before Microsoft can running through there and and it grew. So I grew into this industry. So it was a very unique journey for me as I guess it would say word for you guys. I feel like you're coming into some very, you know, some very art, you know the the methodologies is that there's a lot more. I think there's a lot more silos to the business world now. You know you guys will see a lot of that where I kind of just did everything and that's how I grew up so.
+0:6:15.510 --> 0:6:16.280
+Troy Kirk
+Excellent.
+0:6:20.540 --> 0:6:20.830
+Christopher Watts
+Thank you.
+0:6:29.460 --> 0:6:29.780
+Steven Crawford
+Yep.
+0:6:17.760 --> 0:6:36.530
+Troy Kirk
+Did you guys don't mind if I jump ahead? So you saw you have sort of said, you know, you deal with the the children teaching, you've got all the teachers that you help with their, their network capabilities, that sort of thing apart from those to they're obviously your main percentage. Do you deal with anyone else outside of those two sort of main core groups?
+0:6:37.210 --> 0:7:6.980
+Steven Crawford
+Well, you know from administration by bigger the I do do a lot with the parents. So and again I also so I will be honest I that's how I've been able to turn over the infrastructure cause I pretty much do all the work myself. I don't generally bring in contractors too much like I did when I was with the hospital. So if you can imagine in the big infrastructure like you know we've leaned into consultants a lot so those guys would come in and help us you know get things up get things running.
+0:7:7.680 --> 0:7:8.100
+Troy Kirk
+Sure.
+0:7:7.110 --> 0:7:40.270
+Steven Crawford
+I have the luxury where I'm not that 365 day kind of year 24/7 operation. So being a school I tend to schedule these projects like over Christmas break or over summer or something like that where I can, you know, take the network down or, you know, replace equipment and stuff like that. So I don't realize heavily with consultants, but I do, I do have a lot of interactions with parents. So as you guys, I'm sure probably inundated with the security is just the hot spot for everyone right now, right, so.
+0:7:40.810 --> 0:7:41.100
+Troy Kirk
+Umm.
+0:7:40.850 --> 0:8:2.460
+Steven Crawford
+Everyone's in a panic trying to figure out how we, you know, kind of get this under control. You know, it's kind of been that Wawa W for the last 10 years. And now we're starting to get ahead of it a little bit. So, you know, standard cops and robbers kind of thing going on. You know, you got the bad actors out there. You got the good actors. And it's just a, you know, it's a play. So.
+0:8:11.930 --> 0:8:13.260
+Christopher Watts
+You know, that's why I asked a question.
+0:8:12.100 --> 0:8:14.730
+Troy Kirk
+And I well, like I guess with that, Steven.
+0:8:15.90 --> 0:8:15.460
+Steven Crawford
+No.
+0:8:31.610 --> 0:8:32.470
+Steven Crawford
+Uh, you know.
+0:8:15.910 --> 0:8:33.230
+Troy Kirk
+How do you sort of split your work? You know you've said you got the teaching you have is it, is it mostly what you're saying there that you just do most of the teaching and student stuff during the school year, and then that's the summer is when you spend all the time on the networks and changing and developing stuff? Or do you do a bit of that during the school year?
+0:8:33.670 --> 0:8:54.940
+Steven Crawford
+Yeah, you you kind of split on there. Most of it is, you know I do a lot of end user support, so I don't do anything more. How do you say that infrastructure related? So I keep those projects kind of dialed into the the breaks and things like that. But yeah, I know day-to-day I still interact with kids all day long. You know it is a it is a very.
+0:8:56.80 --> 0:9:25.30
+Steven Crawford
+How do I say that? You know, politely? It's it. It's a. It's a tough balancing act for me. Generally speaking, it is something that will kind of ebb and flow some years like we took. So take a step back as the Charter school, we're kind of a one off. So we're a public charter school, but we sort of kind of what we say we're underneath the county in some source we share I guess is probably a better word. Resources with the county.
+0:9:25.770 --> 0:9:57.720
+Steven Crawford
+And so the how that works is that like our e-mail system, some, some of the other resources that we use like application, so like power school and some of the things that the kids use that's all hosted or facilitated through the county. So I then kind of bump up with the county. So there's an obligation there as you know with the security getting as you know, they're really the the initiatives for securities come down in this last 18 months. They had a CTO that really, really bared down on the security side from the.
+0:9:57.820 --> 0:10:28.380
+Steven Crawford
+From the school district, and unfortunately that did ultimately roll into the the Charter school. So for me, what that really kind of intels is that it's inquired me to take, you know, some other steps and it's taking more of my time away from. So it is kind of finance I have to kind of balance that teaching versus the the technical side of the House. But again, you know it is there's a lot of times it's dropping, you know teachers have an issues.
+0:10:28.440 --> 0:11:1.170
+Steven Crawford
+And again, this is maybe more simplistic, but the overhead projector is not working. The sounds not working. You know it's those other AV things that you know go maybe outside of some of the IT the basic IT that you'll see out there. But then of course my laptop's not working you know so it is just that balancing act and then of course the kids that fire in all day long. Hey Mr Crawford, my my laptop's not working. I'm not getting connected to the Internet. You know all that I'm sure you guys have heard a million times you know if not it it starts at home.
+0:11:8.70 --> 0:11:8.820
+Christopher Watts
+Umm.
+0:11:1.260 --> 0:11:33.340
+Steven Crawford
+You know when you get the family? Yeah. Hey, you. You do computers, don't you know? Not me. You know, I just teach now. It's all so anyways, but no, it's it is. It is again. It's that I think that's why I enjoy the job so much, because again, it really did take my 20 plus years in healthcare from project management to sitting at the table. And I know you guys more IT and I think you'll for me. I grew up there because there is a technology side of it or the business side of it.
+0:11:49.70 --> 0:11:49.400
+Troy Kirk
+Umm.
+0:11:33.460 --> 0:12:5.30
+Steven Crawford
+In that you'll really start to grow into, but it's how do you take and like for my school, you know, how do I keep all of my equipment, you know, current and up to date. And you know, how does that all tie to a budget? And so, you know, that's kind of that next step into the IT world that sometimes we don't talk about, you know, we we think about the IT world as we used to call it, tickling the ivory back in the days. And no one really talked about the business side of it. But there is a whole business model and how you.
+0:12:5.120 --> 0:12:7.970
+Steven Crawford
+January bring that to fruition so.
+0:12:10.130 --> 0:12:11.520
+Andrew Jovanovic
+Yeah, cool. Can I? Can I jump in?
+0:12:11.900 --> 0:12:12.890
+Steven Crawford
+Oh, absolutely.
+0:12:12.740 --> 0:12:13.30
+Troy Kirk
+Alright.
+0:12:13.410 --> 0:12:14.20
+Steven Crawford
+Our way.
+0:12:19.130 --> 0:12:19.430
+Steven Crawford
+Yep.
+0:12:14.550 --> 0:12:37.50
+Andrew Jovanovic
+Yeah. I just want to ask you said you take you back, you know, 20 years of experience when you when you when you achieve like your technical qualifications, what sort of steps did you take to sort of further develop your skills sort of like building on the foundation that you learn when you were obviously when you were studying and building on the languages and stuff like that, what kind of steps did you take to make a development plan for yourself?
+0:12:37.740 --> 0:12:55.330
+Steven Crawford
+You know that that's a great question because I think if you really look at it from today's perspective, the paradigm really shifted. So I'll I'll have to step back. So when you I kind of entered the industry was back in 1988, the web, I'm that old.
+0:13:5.460 --> 0:13:5.910
+Andrew Jovanovic
+You could.
+0:12:56.150 --> 0:13:25.60
+Steven Crawford
+Back in 1988, I work for a big distribution and that's back when they had like hard drives or like the size of the suitcase and they were like, you know, one MB, you know, we were used to like, I remember, like when they came out with A5 MB hard drive, I was like, dude, there was nowhere you ever use all of that up, you know, nasty and like, you know, the comments I made back then, but really as I traded off to a desk. And The funny thing about it is in the early 90s like.
+0:13:25.420 --> 0:13:55.680
+Steven Crawford
+Verifications were all the rage, like a four year university degree had no bearings. They you couldn't get anywhere with a four year university, and that's a lot of it is because they didn't offer them. I mean, that was back in the days when it was mostly you had computer science at the kind of at the forefront you had like E, which is what I got my associates degree in was with electronic engineering. But there wasn't all these separate channels that you see now. But then what happened?
+0:13:55.750 --> 0:14:25.740
+Steven Crawford
+As time went on, so if you start to climb through the 90s, so towards the 2000 that transit shift again. So I went through all the big like certification process. So I held like the MCSE I held the CNA's and I you know the the the S + m plus all the different certifications. But then again I think as you start to establish that what happened is in the late 2000s it became as you wanted to move into management.
+0:14:25.820 --> 0:14:53.530
+Steven Crawford
+There was a lot of the, you know, the they wanted you to understand the business side and that's where I had to go back to, you know, to the university. And then I did my four year because I wanted to grow and I wanted to get into more of the management side. So I then went back and got my bachelor's degree. Actually my bachelors is in business and management. And but again, I I carried my certifications to on through the year. So I would continuously update those because.
+0:14:54.290 --> 0:15:25.90
+Steven Crawford
+Back then, they just they had a lot more weight to them. Now what I see is that the university degrees are, you know, because again because of the specialties that you guys are coming into, I really feel like you see a lot more weight with those certifications still have their, there's no doubt about it. The certifications, I still feel like with certain jobs have a lot of weight to them, but it almost has to marry with a university degree today and that was a little different for me. If that answers your question.
+0:15:25.190 --> 0:15:26.640
+Steven Crawford
+Hold on, I hope I answered it.
+0:15:27.60 --> 0:15:27.880
+Andrew Jovanovic
+No, that's great.
+0:15:29.360 --> 0:15:42.830
+Andrew Jovanovic
+Yeah, like I I I feel the same. Like, it's almost like they're transitioning to having more of experience in a certain field than it is what the certification is. And it's just it's challenging to sort of understand how to sort of develop that.
+0:15:44.310 --> 0:16:4.80
+Andrew Jovanovic
+That experience per se, when you are studying so that kind of ties into my next question sort of like you said that you sort of developed these skills to go, is that also the way that you kind of like kept your skill, your skill set up to date like learning new systems and languages that you needed for new jobs and projects and stuff like that?
+0:16:11.960 --> 0:16:12.440
+Christopher Watts
+Mm-hmm.
+0:16:12.60 --> 0:16:12.540
+Andrew Jovanovic
+Yeah.
+0:16:4.580 --> 0:16:34.190
+Steven Crawford
+I did and and I think a lot of it was I was kind of one of those kind of guys. I had the home labs set up. You know, I think we, I bet you all I'm. I'm just looking I'm just kind of going out there they all kind of have some kind of homeland running around there but yeah yeah I did the same thing. I started out with a product. I don't know if you guys ever heard of it but it was the IT was kind of novel kind of pre Nobel really before novel took off but it was called lantastic and it was token ring and it you know.
+0:16:34.350 --> 0:17:5.200
+Steven Crawford
+And was their second generation, but their first generation was bus and and it was funny. It was all inline bus. It was one thing like you could lose an end on a on the cable and like your entire network went down. It was the funniest thing, but it was a home. It was a home based network and that's where it started for me. And then like, kind of like you, it just the crew. And then I brought in Novell, slapped it on the back end of this lantastic network. And then it started to grow. And then of course the, you know, the star pathology became the big thing that.
+0:17:15.790 --> 0:17:16.160
+Andrew Jovanovic
+Yeah.
+0:17:5.440 --> 0:17:18.490
+Steven Crawford
+Became, you know, everybody was running and and I kind of grew from there. So it was a lot of homegrown, you know, kind of taking that, playing with it at home, but then transition into those skills into the real world.
+0:17:19.590 --> 0:17:48.800
+Steven Crawford
+And again, I know when I myself coming into the industry, you know there was an all this competition, but now I know it, you know, before we had the big 90s but you know because you know it turned into kind of that rock star you had all the the attorneys and you had all the accounts and everybody was running it because they were paying like these rock star kind of salaries. And then of course it busted and everybody went back to their went back and then that's kind of what flushed out the industry, right.
+0:17:48.930 --> 0:18:11.330
+Steven Crawford
+The attorneys went back to being attorneys. The accountants went back to count beans and it was that ******** group of IT guys, the real geeks, that kind of stood in the middle and then they carried this this thing forward. So. And that's kind of where I was at and so again. But my interest then shifted to wanting to sit at that table. So that's when I went back and did the.
+0:18:12.490 --> 0:18:19.960
+Steven Crawford
+Did the did the actual degree. Now my masters was actually in cyber security. So again I you know, I kind of.
+0:18:21.740 --> 0:18:43.780
+Steven Crawford
+I'm still kind of on that geek end of this spectrum. You know, I I, I love all of that. I love getting into that. I do like tickling the the keyboard, but also what I found is I really enjoy teaching the kids. That's the thing. I know some people look at me, you know, like I said, I never intended to be a teacher. That was not my even still today I kind of look at it and I'm like.
+0:18:47.40 --> 0:18:47.580
+Andrew Jovanovic
+It's.
+0:18:44.620 --> 0:19:4.470
+Steven Crawford
+Uh, wow, this you know, how did I end up here? But you know. But when you see those little kids in the light bulbs go off and you're, you know, you're really kind of and. And that's what I enjoy about what I do. Right. It's what you guys enjoy this, this, this technical piece. And that's what I do. It's not math, per se. It's not reading because if it was that, I couldn't do it.
+0:19:7.870 --> 0:19:8.360
+Christopher Watts
+Umm.
+0:19:5.650 --> 0:19:22.560
+Steven Crawford
+That takes a special kind of person, and I'll give it right back to the teachers. But when it comes to that technical stuff, right, those tips come in and then, you know, and a lot of them, they're on fire about it. So you know, and what you know, I mean, some of them are hooked on the tik T.O.K, I get it. But, you know, we take it from there. So.
+0:19:22.580 --> 0:19:23.50
+Andrew Jovanovic
+No.
+0:19:30.570 --> 0:19:31.70
+Steven Crawford
+OK.
+0:19:28.990 --> 0:19:33.720
+Christopher Watts
+Well, might jump back in. What's the biggest hurdle you've had to overcome to get to where you are?
+0:19:34.600 --> 0:20:5.270
+Steven Crawford
+My biggest hurdle? Ohh man. You know, I'm gonna be honest with you. It was in healthcare. It was the IT was how quick things were evolving and I think you know there was a time when it was slow. But what happened the the biggest hurdle is when really he stopped to think about like even now I still think the laws are kind of behind we are we're still lagging with laws and policies and things like that to really kind of catch up with the the industry but I was on the front end of that so.
+0:20:5.470 --> 0:20:35.660
+Steven Crawford
+In the hospital business, you can imagine, like all these new rules that started flying at us and the compliance and the regulators and stuff like that. And those were some of the biggest hurdles cuz again and you guys will be at the forefront of a lot of this because I think I think you'll see us this next big wave is this comes in as we start to really bring technology into you know the norm because you know there's still at, I feel like we're still kind of on that bubble, right, I mean.
+0:20:35.770 --> 0:21:9.450
+Steven Crawford
+COVID kind of through the world into the the tech world. And it was a wake up call for everybody, or at least let me say in my opinion, I think it was a wake up call because now everybody's running that way. But, you know, there's a there's an urgency to get the laws to catch up the compliance to catch up. And I think those are some of the biggest hurdles you will run into because they no longer they I can tell you between me and you, they no longer that's not they don't they don't glaze over. Those ten years ago I can tell you a lot of those compliance things that used to glaze over.
+0:21:9.690 --> 0:21:41.550
+Steven Crawford
+Umm, now there's new laws on the books they're trying to hold. Like even see team members like personally liable if they can come in and and they can say, hey, you did not have an appropriate cybersecurity program. They're looking at trying to hold them, you know, and they're great state, their data gets breached. They can hold those CT members on, you know, liable. And that's going to fall back on guys like you, you know, because they're going to be looking for you to be able to be those experts that says, hey, we're covered. Right.
+0:21:42.50 --> 0:21:44.470
+Steven Crawford
+Ohh ohhh my gosh.
+0:21:43.440 --> 0:21:45.300
+Christopher Watts
+And they all. They all Skype guides.
+0:21:46.470 --> 0:22:16.90
+Steven Crawford
+Well, yeah, you know, that was the joke when I was finishing up, I was doing a bunch of search and I was finishing up my MCSE. It was funny. One of the instructors, his like every other. Every other comment he would make would be make sure you have your resume up to date and I and I remember the entire program I was going through this program it was with SMU back down in Dallas and it was like I was like you know you say that a lot you know what's this deal with always having your resume up-to-date. Yeah just have your resume up to date.
+0:22:16.160 --> 0:22:31.420
+Steven Crawford
+Little bit current you know, so I I kind of fed off of that and that kind of built my career on that even though I hadn't moved around that many jobs. I'm one of the few IT guys that can say hey, I can put all my job experience on 2 pages, but it was something.
+0:22:36.440 --> 0:22:37.240
+Steven Crawford
+Alright, here's.
+0:22:40.870 --> 0:22:41.100
+Christopher Watts
+1.
+0:22:44.80 --> 0:22:44.420
+Christopher Watts
+Alright.
+0:22:43.560 --> 0:22:45.390
+Troy Kirk
+If no one's next, I'm gonna throw one at you.
+0:22:45.850 --> 0:22:46.380
+Christopher Watts
+There you go.
+0:22:46.150 --> 0:22:47.440
+Troy Kirk
+Uh, this this is.
+0:22:45.760 --> 0:22:50.350
+Steven Crawford
+I I can. I can't hear. I can't tell if you're having issues or not. He's something like he was trying to talk.
+0:22:53.250 --> 0:22:54.180
+Troy Kirk
+Is that any better?
+0:22:54.990 --> 0:22:56.130
+Steven Crawford
+Yep, Yep, you're good.
+0:22:55.990 --> 0:22:59.240
+Troy Kirk
+Yep. I'm gonna pray one out. Yes, so.
+0:23:3.250 --> 0:23:3.670
+Steven Crawford
+Uh-huh.
+0:23:0.180 --> 0:23:16.230
+Troy Kirk
+I've, you know, I've sort of begun my journey here and I'm sort of honestly feeling a little bit lost with every week I do and every week sort of makes sense, but what would be your biggest recommendation if you can look back and at the very beginning when you're like, hey, I'm gonna jump in and do this.
+0:23:17.290 --> 0:23:19.720
+Steven Crawford
+For being an IT person, getting into TV.
+0:23:19.100 --> 0:23:25.340
+Troy Kirk
+Yeah, for yeah. Right front, right from the beginning. Now where I'm sort of drowning in the deep end and.
+0:23:26.760 --> 0:23:28.350
+Troy Kirk
+Wondering where I go forward.
+0:23:27.510 --> 0:23:58.450
+Steven Crawford
+No. Yeah, honestly, I think right now it I, to me it's going back and make, you know, just taking those like my lab. That was the beauty of it. You know, when you go to work, you do kind of get overwhelmed because the landscape can be so broad with all the different technologies. I think digging into something that you truly enjoy, and I think that really helps you kind of build into it, because even in my teaching experience with my kids, I mean, I got kids that they could care less about programming. But I got.
+0:23:58.550 --> 0:24:32.730
+Steven Crawford
+Like I can bring my girls in for whatever reason, my girls really tend to just fall into, like, building websites. They can get in the HTML even though it's kind of, you know, it's still skirting around, you know, no pun intended. You know, the like coding. But they get into it and it. But it's I think more of that visual, right. They they can really be that visual kind of art, you know, kind of artist bringing all that together and throw in the code with it. And they really like that and they can see what they're doing. So I that's what I tend to encourage, you know, find that niche that you truly enjoy it.
+0:24:40.350 --> 0:24:40.590
+Troy Kirk
+Umm.
+0:24:32.800 --> 0:25:1.740
+Steven Crawford
+It's networking, you know, build that little network at home, you know, get yourself a couple little cheap computers and build that. If it's programming, dive into some of these platforms and there's even some VM stuff out there that you can do some, you know, you can build some virtual like desktops or you can build virtual networks and stuff like that. So dig into that. But that's what I genuinely I think that's kind of what sucks. You unemployed you in and don't don't get overwhelmed with everything on the edge.
+0:25:3.720 --> 0:25:4.290
+Troy Kirk
+So thank you.
+0:25:5.610 --> 0:25:6.380
+Steven Crawford
+Absolutely.
+0:25:9.850 --> 0:25:10.580
+Christopher Watts
+Ohh.
+0:25:12.830 --> 0:25:13.80
+Christopher Watts
+Yep.
+0:25:9.850 --> 0:25:14.230
+Troy Kirk
+Well, we've definitely covered a a fair few questions. If you guys got any final ones.
+0:25:15.410 --> 0:25:16.980
+Christopher Watts
+I think this.
+0:25:19.600 --> 0:25:25.950
+Christopher Watts
+Probably this one I guess. Can you share an example of the work you do that best captures the essence of the IT industry?
+0:25:27.550 --> 0:25:57.640
+Steven Crawford
+Ohh honestly that was my days running in with the the healthcare. I just you know getting in there because I used to be what they called and called they referred to me as the Nightcrawler because I was that guy. You didn't ever see, right. If you saw me we were having a bad day. It was a bad day. You know. I remember being at the hospital. I've been there like 8 years and I bumped into someone. They're like dude are you knew I'm like no, I've been there eight years. They're like I've never seen you. I'm like yes that's a good thing.
+0:25:58.360 --> 0:26:12.460
+Steven Crawford
+But no, do you know just sitting there enjoying that process of just digging in because I used to, you know, I'd have to rip out firewalls in the middle of the night. Most of my work was done deep because it was a hospital 365. We didn't shut things down.
+0:26:13.880 --> 0:26:44.450
+Steven Crawford
+But one of the things I really encourage you to dig into all of you, it's think about it from a design standpoint that's, you know that's I think when IT really gets fun, if you can step outside, there's not all. I mean, I encourage you to find that thing that you really enjoy. But as you guys go along this journey, think about that design aspect really start to open up and you know, and and regardless of whether it's programming or whether it's into, no. Like I got people in project management that do it.
+0:26:44.650 --> 0:27:14.960
+Steven Crawford
+But when you open up and start thinking about it from a design process, because I've always been, that been like that. And in fact that was kind of my my Forte. I mean, when the hospital used to come to me and say, hey, we've got this issue we need, we've got a doctor that's on site, he needs access with his laptop. But he's trying to VPN into the network. Will the problem was, is that you can't come on to my network, use the VPN and try to get out and come back in because now you're trying to, you basically trying the hairpin. My firewall.
+0:27:15.300 --> 0:27:47.510
+Steven Crawford
+That doesn't work. My firewall's gonna see you as an intruder. So you know, I had to come in and build up a solution on how we could get it to go out. So we had to create like, separate channels so I could send like I could route traffic out one pipe and then hairpin it back out from the Internet and back into the firewall through another pipe. So, you know, it's little things like that that really got me excited about it. And I always enjoyed that part about the job. Is that design process, you know, think about some of those things that you can do and.
+0:27:47.670 --> 0:28:22.300
+Steven Crawford
+You know, whether it's from a firewall, from it for routing standpoint, whether it's using multiple connections, how you can do things like that, you know, and I think that really starts to kind of to me, I think that's what kind of gets to the juices flowing or at least it did for me. I you know that design is that design process really wasn't that standard day-to-day. Hey, let's just help an end user, you know, how do I get my computer hooked to a printer, you know? And I'm not found too many of my friends as I was growing up that got hooked on those desk or they got stuck on those desk and that's all they did and.
+0:28:22.640 --> 0:28:52.690
+Steven Crawford
+It then became kind of bland or kind of became redundant tool. So I always encourage you to think outside the box and you know, and then again they use the you guys. That's the beauty today like I used to have to go scavenge for hardware to take home. You know, you guys have a lot of opportunity with being young and you know you you can virtualize like yeah. Like I said, routers and switches. Cisco's got some pretty cool stuff out there. You can, you know, VM your desktop to. I've created full on.
+0:28:53.90 --> 0:28:56.400
+Steven Crawford
+Enterprises that way and it's it's a lot of fun.
+0:29:1.400 --> 0:29:1.690
+Christopher Watts
+Cool.
+0:29:3.910 --> 0:29:4.610
+Christopher Watts
+Anyone else?
+0:29:7.110 --> 0:29:8.760
+Sasha Bekier
+Nothing. Thank you.
+0:29:9.610 --> 0:29:10.290
+Steven Crawford
+All right.
+0:29:9.790 --> 0:29:10.360
+Fawaz Jeneby
+Thank you.
+0:29:10.140 --> 0:29:10.440
+Christopher Watts
+Yeah.
+0:29:11.480 --> 0:29:12.870
+Troy Kirk
+Get thank you very much, Steve, you've.
+0:29:11.700 --> 0:29:13.250
+Andrew Jovanovic
+Yeah. Thank you very much for your time.
+0:29:14.10 --> 0:29:14.520
+Fawaz Jeneby
+Thank you.
+0:29:10.120 --> 0:29:14.820
+Christopher Watts
+Yeah. So we got thank you very much. That was awesome.
+0:29:13.790 --> 0:29:14.930
+Steven Crawford
+Oh yeah, no problem.
+0:29:15.570 --> 0:29:15.940
+Steven Crawford
+I.
+0:29:15.890 --> 0:29:17.680
+Andrew Jovanovic
+Yeah, that was really insightful. Thank you.
+0:29:13.860 --> 0:29:17.710
+Troy Kirk
+Definitely gave us a lot of food for thought and knowledge.
+0:29:28.300 --> 0:29:29.60
+Andrew Jovanovic
+Yes, same to you.
+0:29:18.180 --> 0:29:31.520
+Steven Crawford
+Ohh man, well you guys. I enjoy your process and enjoy getting y'all's degrees. I I'll. I'll be thinking about each and every one of its nice to meet you. And yeah, I I'll be excited to see what you guys do and in the years to come.
+0:29:33.140 --> 0:29:34.350
+Christopher Watts
+That's OK. Thank you very much.
+0:29:48.950 --> 0:29:49.580
+Steven Crawford
+All of.
+0:29:33.700 --> 0:29:51.300
+Troy Kirk
+Yeah. And and definitely thank you for your time. I you know, we know you're definitely always busy, especially sort of juggling the kids and the network and all that sort of thing. And I guess most importantly, knowing it's Friday night there and you're probably ready to go out and get some dinner or something. So yeah, thanks for giving us this time.
+0:29:52.130 --> 0:29:52.930
+Andrew Jovanovic
+Yeah. Thank you.
+0:29:51.750 --> 0:29:55.780
+Steven Crawford
+Not at all. Did not play out at all, guy. No, I was over here watching Top Gun.
+0:29:56.700 --> 0:29:57.370
+Troy Kirk
+Ah.
+0:29:57.460 --> 0:29:58.140
+Troy Kirk
+Even better.
+0:29:59.850 --> 0:30:11.620
+Steven Crawford
+Oh my God. No, absolutely no. It was a pleasure meeting each and everyone of you. I and and again if you guys get down that journey you need someone to chat with again. I'm definitely I'm always open always.
+0:30:12.240 --> 0:30:13.250
+Christopher Watts
+Perfect. Thank you for that.
+0:30:13.350 --> 0:30:13.890
+Fawaz Jeneby
+Thank you.
+0:30:13.590 --> 0:30:15.200
+Andrew Jovanovic
+Baltimore, thank you.
+0:30:13.240 --> 0:30:15.550
+Troy Kirk
+Cool. Thank you very much, Steven, I'll.
+0:30:14.710 --> 0:30:20.570
+Steven Crawford
+Alright, no problem. Hey, it was good seeing you, my friend. Yeah. Are you still this way or?
