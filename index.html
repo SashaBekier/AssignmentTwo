@@ -9,8 +9,6 @@
 		<section id="menu">
 			<img src="banner.png" alt="IC Team Banner"/><br/>
 			<button class="button" onclick='setDisplay("team")'>Meet the Team</button> 
-
-			<button class="button" onclick='setDisplay("jobs")'>Ideal Jobs</button> 
 			<button class="button" onclick='setDisplay("industry")'>IT Industry</button> 
 			<button class="button" onclick='setDisplay("interview")'>Interview</button> 
 			<button class="button" onclick='setDisplay("tech")'>Reports</button> 
@@ -117,11 +115,9 @@
 			<span class="fullgroup">
 				<p>After forming our group and reviewing everyone's profiles, it was good to see that we had a good mix of personalities. There seems to be a healthy balance of introverted and extroverted personas which can be ideal for communicating. The diversity of our group is a significant asset and in practice we have supported each other well. </p>
 			</span>
-        </section>
 
-        <section id="jobs">
             <h1>Ideal Jobs</h1>
-				
+				<p>Each member of our group sees a different ideal job on their horizons. Troy and Andrew both want to be developers, Front End for Troy and Full Stack for Andrew. Sasha intends on becoming a Data Architect, Fawaz aspires to be a Quants Engineer, and, Chris wants to be a Penetration Tester.</p>
                 <h2>What common elements are there?</h2>
 				<p>Programming languages like Python, Java and JavaScript were the most common skill requirement across all of the job roles. In some cases, full stack developers required good knowledge of all three languages whereas the other roles required a high level of proficiency in either one or two languages. Surprisingly, 80% of our group also required experience in database management systems. This could include systems like SQL or NoSQL, MySQL, PostgreSQL, Oracle, and Microsoft SQL Server. This indicated that regardless of the role, it was essential to have knowledge of popular languages and database systems. These requirements may not just be for working within your own role, but more importantly be able to communicate and collaborate with others.</p>
 				<h2>What differentiates each position?</h2>
@@ -509,7 +505,7 @@
 
 </html>
 <script>
-function setDisplay(show = "team", allSections = ["team","jobs","industry","interview","tech","proj", "reflect","refs", "log"]){
+function setDisplay(show = "team", allSections = ["team","industry","interview","tech","proj", "reflect","refs", "log"]){
 	if(show=="all"){
 		for(sect of allSections){
 			document.getElementById(sect).style.display = "block";
