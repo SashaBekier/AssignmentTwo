@@ -7,13 +7,13 @@
     <body>
 		<section id="menu">
 			<img src="banner.png" alt="IC Team Banner"/><br/>
-			<button class="button" onclick='setDisplay("team")'>Meet the Team</button> 
+			<button class="button" onclick='setDisplay("team")'>Meet the Team</button>
+			<button class="button" onclick='setDisplay("log")'>Tools</button>
 			<button class="button" onclick='setDisplay("industry")'>IT Industry</button> 
 			<button class="button" onclick='setDisplay("interview")'>Interview</button> 
-			<button class="button" onclick='setDisplay("tech")'>Reports</button> 
+			<button class="button" onclick='setDisplay("tech")'>Technologies</button> 
 			<button class="button" onclick='setDisplay("proj")'>Project</button> 
 			<button class="button" onclick='setDisplay("reflect")'>Reflections</button> 
-			<button class="button" onclick='setDisplay("log")'>MS Teams Log</button> 
 			<button class="button" onclick='setDisplay("refs")'>References</button> 
 			<button class="button" onclick='setDisplay("all")'>View All</button>
 		</section>
@@ -128,7 +128,7 @@
 			<p>The IC Team Site is hosted here: <a href="https://andrewjovanovic.github.io/AssignmentTwo/" target="_blank">https://andrewjovanovic.github.io/AssignmentTwo/.</a></p>
 			<p>TODO TODO TODO TODO This sentence needs to become a commentary on how well the audit trail on the Git repository reflects your group’s work. TODO TODO TODO TODO</p> 
 			<h2>MS Teams Meeting Logs</h2>
-			<p>MS Teams invite link: <a href="https://teams.microsoft.com/l/channel/19%3atm6KWGUdO2ugzTWUUZaN92L97-Mky1wXyKQ_qnQJXpU1%40thread.tacv2/General?groupId=43700ea3-44b5-4e74-b715-33d95a0ab54c&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b" target="_blank">IC Team Group Invite</a>
+			<p>MS Teams invite link: <a href="https://teams.microsoft.com/l/channel/19%3atm6KWGUdO2ugzTWUUZaN92L97-Mky1wXyKQ_qnQJXpU1%40thread.tacv2/General?groupId=43700ea3-44b5-4e74-b715-33d95a0ab54c&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b" target="_blank">IC Team Group Invite</a></p>
             <table>
 				<tr><th>Meeting Date</th><th>Agenda</th><th>Recording Link</th><th>Minutes</th></tr>
 				<tr>
@@ -145,7 +145,7 @@
 				</tr>
 				<tr>
 					<td>Saturday 7<sup>th</sup> January 2023 10:00AM AEDT (GMT +11)</td>
-					<td><a href="230107A.pdf" target="_blank"></a>230107A.pdf</td>
+					<td><a href="230107A.pdf" target="_blank">230107A.pdf</a></td>
 					<td><a href="https://rmiteduau-my.sharepoint.com/:v:/g/personal/s3992254_student_rmit_edu_au/EZNzyIdfIJNFlo-ZwaB4lNgB_9b56vPBr3YytxnEUTh2_A" target="_blank">Click Here</a></td>
 					<td><a href="" target="_blank">230107M.pdf</a></td>
 				</tr>
@@ -226,37 +226,28 @@
 				<button class='subbutton' onclick='setDisplay("all", reportsections)'>View All</button>
 			</section>
 			<section id="block">
-			 
-				<h2>Blockchain</h2>
-				<p>Blockchain is a decentralized, distributed and often public digital ledger. It is used to keep records of transactions between networks or peer to peer. The primary use of Blockchain technology is a distributed ledger for Cryptocurrencies. For every transaction using Blockchain Technology a record or a block is formed. Both parties get a full audited transaction history that cannot be altered, which are linked or chained together. This gives the end buyer the full history and information from the first initial transaction that may have happened from 3 owners ago. With the transparency and shared ledgers of transactions it is very hard and time consuming to hack or disrupt the Blockchain. If you have 10 transactions in a Blockchain and 1 gets altered to change the amount of Bitcoin you have the algorithm will see that 1 block has a different ledger amount compared to the other 9 meaning it will change that 1 block to copy the consensus. Whereas if 6 out of the 10 blocks have the same information and 4 are different then the 4 will be changed to mimic the other 6. Basically if someone was to alter it for malicious means they would need to change at least 51% of the blocks in the chain to gain the majority for the algorithm to change it. Which would be very time consuming and costly as each transaction is also date and time stamped to help combat this.</p>
-				<p>The types of Blockchain are usually broken into 3 subheadings:</p>
+				<h2>Blockchain and Cryptocurrency</h2>
+				<h3>Blockchain</h3>
+				<p>Blockchain is a decentralized, distributed and often public digital ledger. It is used to keep records of transactions between networks or peer to peer. The primary use of Blockchain technology is as a distributed ledger for Cryptocurrencies. For every transaction using Blockchain Technology a record or a block is formed and these blocks are linked or chained together providing both parties with a full, audited and unalterable transaction history. This gives the end buyer the full history and information from the first initial transaction that may have happened many owners ago. Transparency and the distributed nature of the ledgers of transactions it is very hard and time consuming to hack or disrupt the Blockchain. If you have 10 transactions in a Blockchain and 1 gets altered to change the amount of Bitcoin you have the algorithm will see that 1 block has a different ledger amount compared to the other 9, it will then change that 1 block to copy the greater consensus. Whereas if 6 out of the 10 blocks have the same information and 4 are different then the 4 will be changed to mimic the other 6. Basically if someone wants to alter a blockchain for malicious purposes they would need to change at least 51% of the blocks in the chain to gain the majority before the algorithm would propagate the hack. This process would be very time consuming and costly as each transaction is also date and time stamped to help combat this.</p>
+				<p>There are 3 common types of Blockchain:</p>
 				<p><ol><li>Permissioned or private Blockchain.</li>
-				<li>2-Permissionless or public Blockchain.</li>
-				<li>3-Hybrid or consortium Blockchain.</li></ol></p>
-				<p>The permission or private Blockchain is a small scale version of the public one. Generally used in a business for Supply chain management, asset ownership or internal voting. Private Blockchain transactions are faster due to the smaller amount of nodes that need to be verified during a transaction. The fewer nodes on a Blockchain also increase the security issues with fewer sources of information it can be easily altered but usually require each node to be approved before joining the Blockchain.</p>
-				<p>Public Blockchain is as the name would suggest, open to anyone that wishes to join the network and establish a node. It is decentralized meaning no single organization controls the Blockchain. Public Blockchains being open nature they should be secured with cryptography and a proof of work consensus system. Generally used for Cryptocurrencies a new block cannot be added to the chain without the node or transaction being confirmed with the consensus system, making forging transactions near impossible. </p>
-				<p>Thirdly we have a Hybrid Blockchain which is a mix of both public and private. The architecture of this Blockchain is entirely customizable and members who use this can decide on which transactions are available to everyone or who can access the Blockchain. Being controlled by a smaller peer group this can pose some risks of dishonest people but with the Immutability and security that each transaction has it makes it very hard.</p>
-				
-
-				<h2>Cryptocurrency</h2>
-				<p>Cryptocurrency is a digital currency which can be used as a form of payment instead of real dollars, euros, pounds etc., and created by using encryption algorithms. They use the Blockchain technology your digital wallet that stores your crypto coins acts as a virtual account system for you as well as the value of the coin.</p>
-				<p>It all started with the Bitcoin but has branched into thousands of other different coins and different versions. </p>
-				<p>The next couple of years will be interesting regarding what is next for Blockchain Technology and Cryptocurrency. Smart contracts will come into play with conditions that can be self-executed and self-enforcing. Supply chain uses are also a step forward for the Blockchain technology with each step of the way from say the farm to consumer being recorded and tracked via the Blockchain will keep everyone accountable on damages or health violations that can arise. </p>
-
-				<p>Blockchain Technology can impact various aspects of our lives from Finance and banking to online security as well as supply chain management. </p>
-				<p>The banking sector are working on adapting Blockchain Technology to allow the exchanging of money to become more efficient, secure and faster. </p>
-				<p>Some say the future of Blockchain technology can replace the bank ideology all together. Without any need for a centralized governing entity what would we need them for? An example is with humanitarian workers in the middle of war torn African countries many have no access to banks and need to be paid in cash. Workers need to hike through remote jungles with bags full of cash to pay their workers at the risk of theft, kidnapping or death. With Blockchain and Cryptocurrencies these issues can be alleviated. </p>
-				<p>Cybersecurity could benefit as well with having a decentralized system rather than a centralized server with data loss, corruption and human error all factors that can be wiped out with the Blockchain technology. Instead of a hacker needing to infiltrate one system or server they would need to hit 51% of the Blockchain system at the exact time to cause any disruption.</p>
-				<p>Healthcare could see passing of information quicker and more secure from GP's to hospitals and specialists.</p>
-				<p>Government voting could be submitted in real time via the Blockchain system with more security and efficiency.</p>
-				<p>The future is endless for this technology, some sectors could be made redundant such as brokers or banking transfer agents with no need to transfer money and then the bank needing to authorise this then submit it to the other client's bank and get their approval and so on.</p>
-
-
-
-
-				<p>In daily life this will be affected hugely among various areas. Social media platforms will be more secure and safe from theft with the very difficult task of hacking your account it will deter people. You will have the right to voice your opinion without the risk of retaliation from the centralized company's views or ideologies. Your data is owned and published by you and not something for the company to sell off to the highest bidder. </p>
+				<li>Permissionless or public Blockchain.</li>
+				<li>Hybrid or consortium Blockchain.</li></ol></p>
+				<p>The permissioned or private Blockchain is a small scale version of the public one. Generally used in a business for Supply chain management, asset ownership or internal voting. Private Blockchain transactions are faster due to the smaller number of nodes that need to be verified during a transaction. Fewer nodes on a Blockchain also increase the security risk. The reduced number of nodes means it can be more easily altered. Typically a private Blockchain will require each node to be approved before joining the Blockchain.</p>
+				<p>Public Blockchain is, as the name would suggest, open to anyone that wishes to join the network and establish a node. It is decentralized meaning no single organization controls the Blockchain. Public Blockchains being open nature, they should be secured with cryptography and a proof of work consensus system. Generally used for Cryptocurrencies, a new block cannot be added to the chain without the node or transaction being confirmed with the consensus system, making forging transactions near impossible.</p>
+				<p>Thirdly we have a Hybrid Blockchain which is a mix of both public and private. The architecture of this Blockchain is entirely customizable and members who use this can decide on which transactions are available to everyone or who can access the Blockchain. Being controlled by a smaller peer group this can pose some risks of dishonest people but with the immutability and security that each transaction has it is still very hard to alter or manipulate.</p>
+				<h3>Cryptocurrency</h3>
+				<p>Cryptocurrency is a digital currency which can be used as a form of payment instead of traditional state-backed currencies such as the Euro or the British Pound. Cryptocurrency is created using encryption algorithms and use the Blockchain technology. Your digital wallet, stores your crypto coins and acts as a virtual account system in addition to tracking your cryptocurrency balances.</p>
+				<p>Bitcoin was the first cryptocurrency to receive widespread attention but subsequently the crypto market has branched into thousands of other different coins with varying implementations.</p>
+				<h3>The future of Blockchain and Cryptocurrencies</h3>
+				<p>The next couple of years will be interesting regarding what is next for Blockchain Technology and Cryptocurrency. Smart contracts will come into play with conditions that can be self-executed and self-enforcing. Supply chain uses are also a step forward for the Blockchain technology with each step of the way from say the farm to consumer being recorded and tracked via the Blockchain. This will keep everyone accountable on damages or health violations that can arise and create true producer/maufacturer to consumer data trails. </p>
+				<p>Blockchain Technology can impact various aspects of our lives from Finance and banking to online security as well as supply chain management. The banking sector are working on adapting Blockchain Technology to allow the exchanging of money to become more efficient, secure and faster. Some say the future of Blockchain technology can replace the bank ideology all together. Without any need for a centralized governing entity what would we need them for? One example relates to humanitarian workers in the middle of war torn African countries, many of whom have no access to banks and need to be paid in cash. NGO's and other agencies then need to hike through remote jungles with bags full of cash to pay their workers at the risk of theft, kidnapping or death. With Blockchain and Cryptocurrencies these issues can be alleviated or even completely overcome. </p>
+				<p>Cybersecurity could benefit as well with having a decentralized system rather than a centralized server with data loss, corruption and human error all factors that can be wiped out with the Blockchain technology. Instead of a hacker needing to infiltrate one system or server they would need to hit 51% of the Blockchain system at the exact time to cause any disruption. The healthcare sector could see passing of information quicker and more securely from GP's to hospitals and specialists and Government voting could be submitted in real time via the Blockchain system with more security and efficiency than present systems supply.</p>
+				<p>Blockchain technologies offer boundless potential to revolutionise the way we do business. Blockchain is a true disruptor and it's transformative nature is sure to impact on industry in many and unanticipated ways. Blockchain technologies have the potential to completely change the way the world deals with things like banking and trade, and could foreseeably result in traditional finace going the way of the dodo.</p>
+				<h3>The Impact of Blockchain Technologies on Daily Life</h3>
+				<p>It seems difficult to overestimate the probable impact of Blockchain technologies on our daily lives. Social media platforms will be more secure and safe from theft with Blockchain based security greatly increasing the difficulty of hacking these systems. You will have the right to voice your opinion without the risk of retaliation from the centralized company's views or ideologies. Your data is owned and published by you and not something for the company to sell off to the highest bidder. </p>
 				<p>Safety and security will be a big part with the future of Blockchain, people will be at ease more knowing their usernames and passwords are stored on encrypted Blockchain networks rather than one server that houses hundreds of millions of others usernames and passwords making it the target for would be thieves. </p>
-				<p>The main differences Blockchain and Cryptocurrencies will bring is peace of mind and trust in the system rather than an entity like a bank or the government. Crypto currency will become more and more prevalent as people will want to shy away from government regulations. Crypto being decentralized is not subject to inflation making it a more stable form of value rather than traditional currency.</p>
+				<p>The main differences Blockchain and Cryptocurrencies will bring is peace of mind and trust in the system rather than an entity like a bank or the government. Crypto currency will become more and more prevalent as people will want to shy away from government regulations. Crypto, being decentralized, is not subject to national interest and fiscal policy making it a more stable form of value rather than traditional currency.</p>
 
 
 
