@@ -1,0 +1,25 @@
+IC Diary
+Core Functionality
+
+Add pain event
+Add Food/Beverage event
+Add Medication Reminder
+	- Script tracker?
+Add Medical Appointment
+	- Notes? Is it only me that has trouble remembering what was said?
+Add General Notes
+
+Outputs
+
+The primary calendar display showing the last 3 weeks and 1 week to come with colour coded pain scale for the past.
+
+A Display that allows you to scroll the food/beverage record in parallel with the pain record to aid in lining up patterns between food/beverages and pain events
+Allow filtering of the displayed foods / beverages and Pain events to asssist in revealing patterns
+
+Generate reports (via email, pdf?)
+-Pain summary
+-Diet summary
+-Medication summary
+-Medical appt summary
+
+As this app retains medical information I think some type of log in is essential regarding privacy even if it is our intent to not require any sign up.
