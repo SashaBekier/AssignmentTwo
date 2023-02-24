@@ -14,6 +14,7 @@
 			<button class="button" onclick='setDisplay("tech")'>Technologies</button> 
 			<button class="button" onclick='setDisplay("proj")'>Project</button> 
 			<button class="button" onclick='setDisplay("reflect")'>Reflections</button> 
+			<button class="button" onclick='setDisplay("vc_positions")'>Careers</button>
 			<button class="button" onclick='setDisplay("refs")'>References</button> 
 			<button class="button" onclick='setDisplay("all")'>View All</button>
 		</section>
@@ -676,7 +677,7 @@
 
 </html>
 <script>
-function setDisplay(show = "team", allSections = ["team","industry","interview","tech","proj", "reflect","refs", "log"]){
+function setDisplay(show = "team", allSections = ["team","industry","interview","tech","proj","vc_positions", "reflect","refs", "log"]){
 	if(show=="all"){
 		for(sect of allSections){
 			document.getElementById(sect).style.display = "block";
